@@ -1,2 +1,2 @@
-def example(one, two)
+def introduction(name)
 end
